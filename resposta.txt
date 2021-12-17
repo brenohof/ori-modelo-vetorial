@@ -1,0 +1,12 @@
+11
+ja_e.samba: 0.18308711342044204
+a_flor_e_o_espinho.samba: 0.17481659546330844
+o_que_e_o_amor.samba: 0.13022654782098664
+conselho.samba: 0.1228705621582013
+andanca.samba: 0.0297157798752267
+foi_um_rio_que_passou_em_minha_vida.samba: 0.02749826654914744
+jessica.samba: 0.02676914795799511
+verdade_chinesa.samba: 0.020684615645732346
+enfeiticado.samba: 0.015838779863601382
+posso_ate_me_apaixonar.samba: 0.012171397179762851
+meu_lugar.samba: 0.010336053275404282
